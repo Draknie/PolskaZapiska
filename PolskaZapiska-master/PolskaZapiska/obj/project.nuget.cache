@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TY5hZjz3wUQQ39pUJhupfYwdtlS9zKA/J6RFhhRhbaxKUi63pYRQTqZPfdNLlE9+Mm4c7zLcsJhdz78bOQBQTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\val4ara\\Documents\\PolskaZapiska-master\\PolskaZapiska\\PolskaZapiska.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\val4ara\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\val4ara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\val4ara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\val4ara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

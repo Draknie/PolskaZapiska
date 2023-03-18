@@ -1,0 +1,15 @@
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\bin\Debug\net6.0\PolskaZapiska.exe
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\bin\Debug\net6.0\PolskaZapiska.deps.json
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\bin\Debug\net6.0\PolskaZapiska.runtimeconfig.json
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\bin\Debug\net6.0\PolskaZapiska.dll
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\bin\Debug\net6.0\PolskaZapiska.pdb
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.csproj.AssemblyReference.cache
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.AssemblyInfoInputs.cache
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.AssemblyInfo.cs
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.csproj.CoreCompileInputs.cache
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.dll
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\refint\PolskaZapiska.dll
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.pdb
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\PolskaZapiska.genruntimeconfig.cache
+C:\Users\val4ara\Documents\PolskaZapiska-master\PolskaZapiska\obj\Debug\net6.0\ref\PolskaZapiska.dll
